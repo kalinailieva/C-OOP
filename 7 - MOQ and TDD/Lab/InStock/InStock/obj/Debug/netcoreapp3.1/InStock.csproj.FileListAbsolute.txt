@@ -1,0 +1,13 @@
+C:\Users\Ivan\Desktop\projects\C# OOP\7 - MOQ and TDD\Lab\InStock\InStock\bin\Debug\netcoreapp3.1\InStock.exe
+C:\Users\Ivan\Desktop\projects\C# OOP\7 - MOQ and TDD\Lab\InStock\InStock\bin\Debug\netcoreapp3.1\InStock.deps.json
+C:\Users\Ivan\Desktop\projects\C# OOP\7 - MOQ and TDD\Lab\InStock\InStock\bin\Debug\netcoreapp3.1\InStock.runtimeconfig.json
+C:\Users\Ivan\Desktop\projects\C# OOP\7 - MOQ and TDD\Lab\InStock\InStock\bin\Debug\netcoreapp3.1\InStock.runtimeconfig.dev.json
+C:\Users\Ivan\Desktop\projects\C# OOP\7 - MOQ and TDD\Lab\InStock\InStock\bin\Debug\netcoreapp3.1\InStock.dll
+C:\Users\Ivan\Desktop\projects\C# OOP\7 - MOQ and TDD\Lab\InStock\InStock\bin\Debug\netcoreapp3.1\InStock.pdb
+C:\Users\Ivan\Desktop\projects\C# OOP\7 - MOQ and TDD\Lab\InStock\InStock\obj\Debug\netcoreapp3.1\InStock.csprojAssemblyReference.cache
+C:\Users\Ivan\Desktop\projects\C# OOP\7 - MOQ and TDD\Lab\InStock\InStock\obj\Debug\netcoreapp3.1\InStock.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\projects\C# OOP\7 - MOQ and TDD\Lab\InStock\InStock\obj\Debug\netcoreapp3.1\InStock.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\projects\C# OOP\7 - MOQ and TDD\Lab\InStock\InStock\obj\Debug\netcoreapp3.1\InStock.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\projects\C# OOP\7 - MOQ and TDD\Lab\InStock\InStock\obj\Debug\netcoreapp3.1\InStock.dll
+C:\Users\Ivan\Desktop\projects\C# OOP\7 - MOQ and TDD\Lab\InStock\InStock\obj\Debug\netcoreapp3.1\InStock.pdb
+C:\Users\Ivan\Desktop\projects\C# OOP\7 - MOQ and TDD\Lab\InStock\InStock\obj\Debug\netcoreapp3.1\InStock.genruntimeconfig.cache
